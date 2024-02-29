@@ -17,7 +17,7 @@ jobs:
         with:
          access_token: ${{ github.token }}
 
-      - name: maxim-lobanov/setup-xcode@v1
+      - name: bilal/setup-xcode@v1
         with:
           xcode-version: latest-stable
           
