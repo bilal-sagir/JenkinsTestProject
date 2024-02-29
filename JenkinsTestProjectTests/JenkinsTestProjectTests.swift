@@ -14,4 +14,8 @@ final class JenkinsTestProjectTests: XCTestCase {
         let a = 1
         assert(a == 1)
     }
+    
+    func testSample2() {
+        XCTAssertEqual(2 + 1, 3)
+    }
 }
