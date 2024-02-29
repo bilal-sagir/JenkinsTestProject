@@ -1,4 +1,4 @@
-fastlane_version: '2.219'
+fastlane_version :'2.219'
 default_platform :ios
 
 platform :ios do
